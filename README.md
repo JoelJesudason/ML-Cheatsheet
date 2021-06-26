@@ -1,5 +1,5 @@
 # Machine Learning Cheatsheet
-Machine learning cheatsheet
+Time Series, Classification, and Deep Learning
 
 ## Hodrick-Prescott Filtering
 
