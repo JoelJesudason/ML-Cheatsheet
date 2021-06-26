@@ -5,10 +5,10 @@ Machine learning cheatsheet
 
 ### Decomposing into trend and noise
 
-'''
+```
 import statsmodels.api as sm
 ts_noise, ts_trend = sm.tsa.filters.hpfilter(df['close'])
-'''
+```
 
 
 ### Autocorrelation, Partial-Autocorrelation
